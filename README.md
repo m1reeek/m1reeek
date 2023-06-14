@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m1reeek
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning Python??
 - 📫 How to reach me Incompatible#6328
 
 <!---
